@@ -1,0 +1,32 @@
+
+Nuclotide-Binary-Tetrad-APNG Proprietary License
+
+Copyright (C) 2023 Ian Michael Bollinger
+
+All rights reserved.
+
+This software, its associated documentation (with exception to public domain data or images), and output files are the exclusive property of Ian Michael Bollinger ("The Owner"). By accessing, using, or contributing to this software, you agree to the following terms:
+
+1. Limited Use and Modification
+
+You are granted a non-exclusive, non-transferable, revocable license to use and modify this software for personal, educational, or research purposes only. Any commercial use or distribution is strictly prohibited without prior written permission from The Owner.
+
+2. Contributions and Collaboration
+
+If you wish to contribute to this software, you must first obtain written permission from The Owner. By submitting contributions, you grant The Owner a perpetual, worldwide, non-exclusive, royalty-free, and irrevocable license to use, reproduce, modify, distribute, and sublicense your contributions in any form and for any purpose.
+
+3. No Warranty
+
+This software is provided "as is" without any warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the software is with you.
+
+4. Limitation of Liability
+
+In no event shall The Owner be liable for any damages, including but not limited to, direct, indirect, special, incidental, or consequential damages, arising out of the use or inability to use this software, even if advised of the possibility of such damages.
+
+5. Termination
+
+Your license to use and contribute to this software may be terminated by The Owner at any time, for any reason, without prior notice. Upon termination, you must cease all use and distribution of this software and destroy all copies in your possession.
+
+6. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of Florida, without regard to conflicts of law principles. Any disputes arising from this license shall be exclusively subject to the jurisdiction of the courts of Florida.
